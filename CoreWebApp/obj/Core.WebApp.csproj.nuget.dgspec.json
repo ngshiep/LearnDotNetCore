@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj": {}
+    "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj": {
+    "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
         "projectName": "Core.WebApp",
-        "projectPath": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
+        "projectPath": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
         "packagesPath": "C:\\Users\\HiepNguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\obj\\",
+        "outputPath": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\HiepNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

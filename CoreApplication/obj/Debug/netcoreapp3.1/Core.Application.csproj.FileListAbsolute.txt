@@ -1,0 +1,9 @@
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\bin\Debug\netcoreapp3.1\Core.Application.deps.json
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\bin\Debug\netcoreapp3.1\Core.Application.dll
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\bin\Debug\netcoreapp3.1\Core.Application.pdb
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.csprojAssemblyReference.cache
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.AssemblyInfoInputs.cache
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.AssemblyInfo.cs
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.dll
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreApplication\obj\Debug\netcoreapp3.1\Core.Application.pdb

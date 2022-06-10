@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwvovN1c1JtQw9htIwT1lcl/vxeaEiWoYX+OQ7dg0/xQik5dcFJGO1Yd/O6+M1VZGJw3zq+3UXhXb8FMbFiFcQ==",
+  "dgSpecHash": "VuoDScvvyhmaPwyntvydmJHTH/PWA1hyIw4bVgJmq7D1XALmw0x/vWvOPxugX4IFWOpzQniA7+/FLY+1+xenqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreWebApp\\Core.WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
