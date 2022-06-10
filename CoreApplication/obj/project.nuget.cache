@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mg0he24eSW2iybSi0GzmsCId6GWJZCKhpNL8V60DPzFZEWXvzDWB5wVnl2MkRHIT/J+WaG8mum6Fh9tmAoDR3w==",
+  "dgSpecHash": "DIkBy/E0QgO2UZPk3MNEJ7C7s1Y5vOGwsDmtyoLoQQedqQf0fVra5CkUxo87E0oUm3C9yeVLFNMLu38w30cUgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreApplication\\Core.Application.csproj",
+  "projectFilePath": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreApplication\\Core.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJompb0Ooq2xPHsS65JZGk39ToTHcGu1B/3jGcGLomMgpT+v6TSIn+9Qq8TXlVV9YFDVLQ81JTj7l8+xlPgRCQ==",
+  "dgSpecHash": "K86UmzTg75RZiN1asOaH0uopHZVZk47xyjsSSAMEKMT5Kuemc+dObPUuspp/16sViwuzjZ7O53TUTiY0w2J3Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HiepNguyen\\source\\repos\\LearnDotNetCore\\CoreData\\Core.Data.csproj",
+  "projectFilePath": "C:\\Users\\HiepNguyen\\Dropbox\\LearnDotNetCore\\CoreData\\Core.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HiepNguyen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\HiepNguyen\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
