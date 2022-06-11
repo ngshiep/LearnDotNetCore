@@ -1,15 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Core.Data.Entities
+namespace Core.Application.MSinhVien
 {
-    [Table("SinhVien")]
-    public class SinhVien
+    public class SinhVienRequest
     {
-        [Key]
         public int Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }

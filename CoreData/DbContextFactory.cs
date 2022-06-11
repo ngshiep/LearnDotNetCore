@@ -11,7 +11,7 @@ namespace Core.Data
         public AppDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
-            optionsBuilder.UseSqlServer("Server=C_DES028\\SQLEXPRESS;Database=myDb;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer( "Server=DESKTOP-PSV75U0\\SQLEXPRESS;Database=AppDatabase;Trusted_Connection=True;" );
             return new AppDbContext(optionsBuilder.Options);
         }
 
