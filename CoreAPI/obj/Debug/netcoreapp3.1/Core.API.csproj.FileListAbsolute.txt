@@ -34,3 +34,4 @@ C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreAPI\obj\Debug\netcoreapp3.1\Core
 C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreAPI\obj\Debug\netcoreapp3.1\Core.API.pdb
 C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreAPI\obj\Debug\netcoreapp3.1\Core.API.genruntimeconfig.cache
 C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreAPI\obj\Debug\netcoreapp3.1\Core.API.csproj.CopyComplete
+C:\Users\HiepNguyen\Dropbox\LearnDotNetCore\CoreAPI\obj\Debug\netcoreapp3.1\Core.API.csprojAssemblyReference.cache
